@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.karan_fleet.twa",
+      "sha256_cert_fingerprints": [
+        "AB:47:A5:79:EF:E9:93:9F:15:D0:30:A9:73:41:5D:D3:28:4E:DF:4C:21:67:53:2E:2E:8F:FA:9D:72:4F:62:8F"
+      ]
+    }
+  }
+]
